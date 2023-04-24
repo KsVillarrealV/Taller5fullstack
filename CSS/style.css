@@ -36,10 +36,10 @@ section{
     align-items: center;
     margin:10px;
 }
-#title-id{
-    font-style: italic #ffffff;
+.caption{
+    color: #ffffff;
+    font-style: italic;
     text-align: center;
-    display: block;
 }
 section .card_notice{
     color:#ffffff;
@@ -47,6 +47,8 @@ section .card_notice{
     border-radius: 10px;
     height: 90%;
     width: 30%;
+    align-items: center;
+    justify-content: center;
 }
 #redes{
     background-color: #ffffff7e;
