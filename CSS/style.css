@@ -1,0 +1,38 @@
+body{
+    
+    background-image: url("../img/Fondo1440.png");    
+    background-repeat: no-repeat;
+}
+
+header{
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    border: solid 1px ;
+    border-radius: 10px;
+    display: flex;
+    padding: 15px;
+}
+#main-menu a{
+    color:#ffffff;
+    text-decoration: none;
+    width: 90%;
+    max-width: 1000px;
+    padding: 12px;
+    margin: auto;
+    overflow: hidden;
+}
+
+ul a:hover{
+    color: #000000;
+    transition: 0.5s;
+    background-color: #4aed22;
+    border-radius: 10px;
+}
+#redes{
+    background-color: #ffffff7e;
+    display: flex;
+    padding: 20px;
+    border: solid 1px;
+}
+
